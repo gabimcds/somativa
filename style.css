@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(243,240,230,0.94) 100%);
+    background-repeat: no-repeat;
+    height: 850px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    padding: 30px;
+    background-color: #f3f0e6;
+    width: 350px;
+    margin-left: 735px;
+    border-radius: 50px;
+}
+h2{
+    margin-top: 80px;
+    padding: 25px;
+}
+
+button{
+    height: 35px;
+    width: 65px;
+    border-radius: 50px;
+    
+}
